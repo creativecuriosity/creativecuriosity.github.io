@@ -31,7 +31,9 @@ CLAMS are a form of digital value, or currency, that is transferred, created, an
 
 The CLAM Network is a peer-to-peer network of computers running the CLAMS software.  To become a part of the CLAMS network, you need only to run the CLAMS software on your home computer.  The purpose of this network is to independently and collaboratively verify the transfer and creation of CLAMS.
 
--><i class="fa fa-check-square fa-2x"></i><-
+->
+<i class="fa fa-check-square fa-2x"></i>
+<-  
 
 ###*You are the CLAM Network.*
 
