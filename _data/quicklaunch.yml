@@ -49,3 +49,14 @@
   url: /news-articles/
   excerpt: Take a gander at some of the places CLAM has been mentioned across the internet.
   
+- title: Theme Setup
+  url: /theme-setup/
+  excerpt: Derp.
+  
+- title: About
+  url: /about/
+  excerpt: Derp.
+
+- title: Sample Posts
+  url: /posts/
+  excerpt: Derp. 
