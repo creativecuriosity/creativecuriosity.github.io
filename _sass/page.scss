@@ -218,7 +218,7 @@ $button-size: 1.5rem;
 
 /* Main content */
 #main {
-	background-image: url("images/cryptotrust.png");
+	background-image: url("../../images/cryptotrust.png");
 	background-repeat: repeat-y;
 	counter-reset: captions;
 	@include container;
