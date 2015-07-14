@@ -218,10 +218,10 @@ $button-size: 1.5rem;
 
 /* Main content */
 #main {
-	min-height: 600em;
 	@media #{$x-large} {
 		background-image: url("../../images/cryptotrust.png");
 		background-repeat: repeat-y;
+		min-height: 100em;
 	}
 	counter-reset: captions;
 	@include container;
