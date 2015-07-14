@@ -13,7 +13,7 @@ image:
 
 ***
 
-<i class="fa fa-bank fa-5x"></i>
+-><i class="fa fa-bank fa-5x"></i><-
 
 ***
 
