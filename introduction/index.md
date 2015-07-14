@@ -9,11 +9,11 @@ image:
 
 {% include _toc.html %}
 
-![img](../images/lighthouse.jpg)
+<!--![img](../images/lighthouse.jpg)-->
 
 ***
 
--><i class="fa fa-bank fa-5x"></i><-
+<i class="fa fa-bank fa-5x"></i>
 
 ***
 
