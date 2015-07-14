@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            CLAM Project
 locale:           en_US
-url:              
+url:              http://creativecuriosity.github.io
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: CLAM Project
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Decentralized crypto-currency."
   email: 
   disqus-shortname: 
   twitter: #username
