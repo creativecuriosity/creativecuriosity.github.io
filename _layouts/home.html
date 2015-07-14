@@ -39,7 +39,7 @@
 		{% if currPage.link %}
 		<h2 class="link-post"><a href="{{ site.url }}{{ currPage.url }}" title="{{ currPage.title }}">{{ currPage.title }}</a> <a href="{{ currPage.link }}" target="_blank" title="{{ currPage.title }}"><i class="fa fa-link"></i></h2>
 		{% else %}
-        <h2><a href="{{ site.url }}{{ currPage.url }}" title="{{ currPage.title }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ site.url }}{{ currPage.url }}" title="{{ currPage.title }}">{{ currPage.title }}</a></h2>
 			{% if currPage.excerpt %}
 			<p>{{ currPage.excerpt | strip_html | truncate: 160 }}</p>
 			{% endif %}
