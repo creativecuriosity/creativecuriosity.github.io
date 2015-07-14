@@ -13,10 +13,11 @@ image:
 
 ***
 
-<i class="fa fa-bank fa-5x"></i>
+
 
 ***
 
+<i class="fa fa-bank fa-5x"></i>
 ##What are CLAMS?
 
 CLAMS are a form of digital value, or currency, that is transferred, created, and verified by the collective effort of the computers running the CLAMS software.  Similar to Bitcoin, the original technology on top of which CLAMS was created, this network follows a rigorous protocol to ensure that consensus and verification is maintained.
