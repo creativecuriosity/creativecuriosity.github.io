@@ -218,8 +218,10 @@ $button-size: 1.5rem;
 
 /* Main content */
 #main {
-	background-image: url("../../images/cryptotrust.png");
-	background-repeat: repeat-y;
+	@media #{$large} {
+		background-image: url("../../images/cryptotrust.png");
+		background-repeat: repeat-y;
+	}
 	counter-reset: captions;
 	@include container;
 	@include clearfix;
