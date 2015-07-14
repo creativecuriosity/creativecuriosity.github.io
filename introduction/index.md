@@ -15,13 +15,13 @@ image:
 
 
 
-##<i class="fa fa-bank fa-5x"></i>What are CLAMS?
+##<i class="fa fa-bank fa-5x"></i> What are CLAMS?
 
 CLAMS are a form of digital value, or currency, that is transferred, created, and verified by the collective effort of the computers running the CLAMS software.  Similar to Bitcoin, the original technology on top of which CLAMS was created, this network follows a rigorous protocol to ensure that consensus and verification is maintained.
 
 
 
-###*<i class="fa fa-check-square fa-2x"></i>CLAMS are a form of Digital Money.*
+###*<i class="fa fa-check-square fa-2x"></i> CLAMS are a form of Digital Money.*
 
 <a markdown="0" href="{{ site.url }}/what-are-clams" class="btn">What Are CLAMs?</a>
 
@@ -31,7 +31,7 @@ CLAMS are a form of digital value, or currency, that is transferred, created, an
 
 The CLAM Network is a peer-to-peer network of computers running the CLAMS software.  To become a part of the CLAMS network, you need only to run the CLAMS software on your home computer.  The purpose of this network is to independently and collaboratively verify the transfer and creation of CLAMS.
 
-<i class="fa fa-check-square fa-2x"></i>
+-><i class="fa fa-check-square fa-2x"></i><-
 
 ###*You are the CLAM Network.*
 
