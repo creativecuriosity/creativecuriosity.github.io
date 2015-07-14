@@ -1,17 +1,17 @@
 # Site navigation links
 
 
-
-
-
 - title: Introduction
   url: /introduction/
+  excerpt: Learn the basics of the CLAM network.
   
 - title: Getting Started
   url: /getting-started/
+  excerpt: Only what you need to get involved with the CLAM network; nothing more.
 
 - title: Download
   url: /download/
+  excerpt: Download the CLAMclient software. 
 
 - title: Distribution
   url: /distribution/
