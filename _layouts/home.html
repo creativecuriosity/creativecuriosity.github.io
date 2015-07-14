@@ -33,19 +33,7 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-	<h3>Explore CLAMs</h3>
-	{% for currPage in site.pages %}
-	<article>
-		{% if currPage.link %}
-		<h2 class="link-post"><a href="{{ site.url }}{{ currPage.url }}" title="{{ currPage.title }}">{{ currPage.title }}</a> <a href="{{ currPage.link }}" target="_blank" title="{{ currPage.title }}"><i class="fa fa-link"></i></h2>
-		{% else %}
-        <h2><a href="{{ site.url }}{{ currPage.url }}" title="{{ currPage.title }}">{{ currPage.title }}</a></h2>
-			{% if currPage.excerpt %}
-			<p>{{ currPage.excerpt | strip_html | truncate: 160 }}</p>
-			{% endif %}
-      {% endif %}
-	</article>
-	{% endfor %}
+	{% include _quicklaunch.html %}
     <h3><a href="{{ site.url}}/posts/">News</a></h3>
     {% for post in site.posts limit:5 %}    
     <article>
