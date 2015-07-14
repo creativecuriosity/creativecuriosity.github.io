@@ -1,13 +1,8 @@
 # Site navigation links
 
-- title: About
-  url: /about/
 
-- title: Sample Posts
-  url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/
+
 
 - title: Introduction
   url: /introduction/
@@ -17,3 +12,48 @@
 
 - title: Download
   url: /download/
+
+- title: Distribution
+  url: /distribution/
+  excerpt: "Aequitas" is Latin for Equality. Learn what makes the CLAM network so fair.  
+
+- title: CLAMspeech
+  url: /clamspeech/
+  excerpt: "Libertas" is Latin for Liberty. Learn how the CLAM network protects and is protected by free speech.
+
+- title: Development
+  url: /development/
+  excerpt: Discover what is in store for the future of CLAMs and how you can help.
+
+- title: Market
+  url: /market/
+  excerpt: Explore some of the things you can do with your CLAMs.
+  
+- title: Manifesto
+  url: /manifesto/
+  excerpt: Why was the CLAM network created?
+  
+- title: Technical Information
+  url: /technical-information/
+  excerpt: Study the technical parameters of the CLAM protocol.
+  
+- title: Create CLAMs
+  url: /create-clams/
+  excerpt: Start earning CLAMs by helping to secure the network.
+  
+- title: Earn CLAMs
+  url: /earn-clams/
+  excerpt: Help to develop the network and earn CLAMs.
+  
+- title: News Articles
+  url: /news-articles/
+  excerpt: Take a gander at some of the places CLAM has been mentioned across the internet.
+  
+- title: Theme Setup
+  url: /theme-setup/
+  
+- title: About
+  url: /about/
+
+- title: Sample Posts
+  url: /posts/  
