@@ -9,7 +9,7 @@ image:
 
 {% include _toc.html %}
 
-##<i class="fa fa-bar-chart-o fa-5x"></i>Visualizations of the CLAM network.
+##<i class="fa fa-bar-chart-o fa-5x"></i> Visualizations of the CLAM network.
 
 Behold as we nail the mysterious blockchain down into simple visualizations.
 
@@ -46,7 +46,7 @@ Above: This scatter plot shows the transaction ID's of distribution CLAMs dug ov
 
 ---
 
-Credit for these graphs goes to dooglus. In [this posting](https://bitcointalk.org/index.php?topic=623147.msg9512382#msg9512382) on Bitcointalk.org he explains how they were created.
+Credit for these graphs goes to dooglus. In [this posting](https://bitcointalk.org/index.php?topic=623147.msg9512382#msg9512382){:target="_blank"} on Bitcointalk.org he explains how they were created.
 
 ---
 

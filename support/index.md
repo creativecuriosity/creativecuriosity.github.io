@@ -19,13 +19,13 @@ Using cryptocurrency today can be about as easy as using the Internet in 1992. B
 
 ---
 
-<a markdown="0" href="http://blocktree.io/peers/CLAM/" class="btn"><i class="fa fa-cloud"></i> Node List</a>
+<a markdown="0" href="http://blocktree.io/peers/CLAM/" class="btn" target="_blank"><i class="fa fa-cloud"></i> Node List</a>
 
-<a markdown="0" href="https://bitcointalk.org/index.php?topic=623147.msg9772191#msg9772191" class="btn"><i class="fa fa-cloud"></i> Bootstrap.dat</a>
+<a markdown="0" href="https://bitcointalk.org/index.php?topic=623147.msg9772191#msg9772191" class="btn" target="_blank"><i class="fa fa-cloud"></i> Bootstrap.dat</a>
 
 ---
 
-<a markdown="0" href="http://clam.makejar.com/" class="btn"><i class="fa fa-cloud"></i> CLAMchecker</a>
+<a markdown="0" href="http://clam.makejar.com/" class="btn" target="_blank"><i class="fa fa-cloud"></i> CLAMchecker</a>
 
 <a markdown="0" href="{{ site.url }}/import" class="btn"><i class="fa fa-cloud"></i> Importing distribution CLAMs</a>
 
