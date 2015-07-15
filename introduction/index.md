@@ -31,9 +31,9 @@ CLAMS are a form of digital value, or currency, that is transferred, created, an
 
 The CLAM Network is a peer-to-peer network of computers running the CLAMS software.  To become a part of the CLAMS network, you need only to run the CLAMS software on your home computer.  The purpose of this network is to independently and collaboratively verify the transfer and creation of CLAMS.
 
-<i class="fa fa-check-square fa-2x"></i>
 
-###*You are the CLAM Network.*
+
+###*<i class="fa fa-check-square fa-2x"></i>You are the CLAM Network.*
 
 <a markdown="0" href="{{ site.url }}/technical-info" class="btn">Technical Info</a>
 
@@ -45,9 +45,9 @@ Money is ever present in our lives. We buy, sell, trade, and work by exchanging 
 
 CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation. It exists on the network and cannot be seized or taxed.  CLAMS provides the equality that the current system lacks. It was distributed EVENLY to over three million 'accounts' at its creation.
 
-<i class="fa fa-check-square fa-2x"></i>
 
-###*CLAMS is about freedom, fairness and equality.*
+
+###*<i class="fa fa-check-square fa-2x"></i>CLAMS is about freedom, fairness and equality.*
 
 <a markdown="0" href="{{ site.url }}/manifesto" class="btn">CLAM Manifesto</a>
 
