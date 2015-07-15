@@ -9,7 +9,7 @@ image:
 
 {% include _toc.html %}
 
-##<i class="fa fa-cog fa-5x"></i> Technical Information
+##<i class="fa fa-cog fa-5x"></i> Network Parameters
 
 * CLAMs were initially distributed to 3,208,032 addresses.
 
@@ -38,6 +38,8 @@ image:
 * Maximum Stake Age: Unlimited
 
 * Block Reward: 1 CLAM
+
+###Proof-Of-Working-Stake Summary
 
 Proof-Of-Working-Stake reward is designed to replace coins lost, unclaimed or inaccessible over time. The block reward of 1 CLAM means that 526,000 new CLAMs are created each year. The annual rate of return varies in relation to the current active money supply. Accordingly, the present annual rate of return is 234%, and the daily return is 0.64%.
 
