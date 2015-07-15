@@ -51,4 +51,4 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 ***
 
-##['NEXT: CLAMs Is About Equal Distribution.'](/distribution)
+##[NEXT: CLAMs Is About Equal Distribution.](/distribution)
