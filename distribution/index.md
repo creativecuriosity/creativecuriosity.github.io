@@ -4,7 +4,7 @@ title: Distribution
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Information about the CLAM initial and ongoing money supply."
 image:
-  feature: school-of-fish.jpg
+  feature: team.jpg
 ---
 
 {% include _toc.html %}

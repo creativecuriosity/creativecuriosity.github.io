@@ -4,7 +4,7 @@ title: What Are CLAMs?
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "CLAMs are a new kind of cryptocurrency."
 image:
-  feature: lighthouse.jpg
+  feature: CLAMedia.jpg
 ---
 
 {% include _toc.html %}

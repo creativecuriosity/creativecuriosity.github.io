@@ -4,7 +4,7 @@ title: Introduction
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "A short introduction to the CLAM network."
 image:
-  feature: lighthouse.jpg
+  feature: CLAMalytics.jpg
 ---
 
 {% include _toc.html %}

@@ -4,7 +4,7 @@ title: Technical Information
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Technical parameters of the CLAM network."
 image:
-  feature: sample-image-3.jpg
+  feature: submarine.jpg
 ---
 
 {% include _toc.html %}
