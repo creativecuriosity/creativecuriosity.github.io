@@ -22,4 +22,4 @@ The combined computing power of the CLAMS network is used to create and maintain
 
 ###*<i class="fa fa-check-square fa-2x"></i> A Peer-to-Peer Revolution*
 
-<a markdown="0" href="#" class="btn" onclick="javascript:history.back();">BACK: Introduction</a>
+<a markdown="0" href="{{ site.url }}/introduction" class="btn">BACK: Introduction</a>

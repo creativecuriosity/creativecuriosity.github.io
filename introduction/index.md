@@ -51,4 +51,4 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 ***
 
-##[NEXT: CLAMs Is About Equal Distribution.](/distribution)
+<a markdown="0" href="{{ site.url }}/distribution" class="btn">NEXT: CLAMs Is About Equal Distribution.</a>

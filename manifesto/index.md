@@ -78,4 +78,4 @@ I am a peer-to-peer currency, and this is my manifesto.  You may stop this indiv
 > The CLAMS Development Team
 Inspired by, +++The Mentor+++
 
-<a markdown="0" href="#" class="btn" onclick="history.back();">BACK: Introduction</a>
+<a markdown="0" href="{{ site.url }}/introduction" class="btn">BACK: Introduction</a>
