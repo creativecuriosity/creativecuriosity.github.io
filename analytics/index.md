@@ -9,61 +9,9 @@ image:
 
 {% include _toc.html %}
 
-##<i class="fa fa-bank fa-5x"></i> What are CLAMS?
+##<i class="fa fa-bar-chart-o fa-5x"></i>Visualizations of the CLAM network.
 
-CLAMS are a form of digital value, or currency, that is transferred, created, and verified by the collective effort of the computers running the CLAMS software.  Similar to Bitcoin, the original technology on top of which CLAMS was created, this network follows a rigorous protocol to ensure that consensus and verification is maintained.
-
-
-
-###*<i class="fa fa-check-square fa-2x"></i> CLAMS are a form of Digital Money.*
-
-<a markdown="0" href="{{ site.url }}/what-are-clams" class="btn">What Are CLAMs?</a>
-
-***
-
-##What is the CLAM Network?
-
-The CLAM Network is a peer-to-peer network of computers running the CLAMS software.  To become a part of the CLAMS network, you need only to run the CLAMS software on your home computer.  The purpose of this network is to independently and collaboratively verify the transfer and creation of CLAMS.
-
-
-
-###*<i class="fa fa-check-square fa-2x"></i> You are the CLAM Network.*
-
-<a markdown="0" href="{{ site.url }}/technical-information" class="btn">Technical Info</a>
-
-***
-
-##Why Should We Care?
-
-Money is ever present in our lives. We buy, sell, trade, and work by exchanging and transferring money. However, the current monetary system was not designed to support freedom, fairness and equality.
-
-CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation. It exists on the network and cannot be seized or taxed.  CLAMS provides the equality that the current system lacks. It was distributed EVENLY to over three million 'accounts' at its creation.
-
-
-
-###*<i class="fa fa-check-square fa-2x"></i> CLAMS is about freedom, fairness and equality.*
-
-<a markdown="0" href="{{ site.url }}/manifesto" class="btn">CLAM Manifesto</a>
-
-***
-
-<iframe class="youtube-player" type="text/html" width="432" height="270" style="max-width:100%;" src="http://www.youtube.com/embed/udA4CZPLy98?wmode=opaque" frameborder="0" allowfullscreen="true"></iframe>
-
-***
-
----
-
-<a markdown="0" href="{{ site.url }}/distribution" class="btn">NEXT: CLAMs Is About Equal Distribution.</a>
-
-
-
-
-
-
-
----
-
-##<i class="fa fa-bar-chart-o fa-5x"></i>Behold as we nail the mysterious blockchain down into simple visualizations.
+Behold as we nail the mysterious blockchain down into simple visualizations.
 
 ---
 
@@ -82,19 +30,19 @@ Above: CLAM network difficulty rose sharply upon the [fork in mid-November 2014]
 
 ![img]({{ site.url }}/images/difficulty-after-fork.png)
 
-A close up look at CLAM network difficulty immediately after the mid-November fork.
+Above: A close up look at CLAM network difficulty immediately after the mid-November fork.
 
 ---
 
 ![img]({{ site.url }}/images/blocks.png)
 
-Focusing yet closer, now at a few hours on November 22. The dots represent individual blocks.
+Above: Focusing yet closer, now at a few hours on November 22. The dots represent individual blocks.
 
 ---
 
 ![img]({{ site.url }}/images/txidDig.png)
 
-This scatter plot shows the transaction ID's of distribution CLAMs dug over time. The prominent red line is the result of numerous claims from DOGE addresses that took place over a short time period. The ownership of those CLAMs is unknown at this time.
+Above: This scatter plot shows the transaction ID's of distribution CLAMs dug over time. The prominent red line is the result of numerous claims from DOGE addresses that took place over a short time period. The ownership of those CLAMs is unknown at this time.
 
 ---
 
