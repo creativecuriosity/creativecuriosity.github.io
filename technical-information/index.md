@@ -43,9 +43,10 @@ image:
 
 Proof-Of-Working-Stake reward is designed to replace coins lost, unclaimed or inaccessible over time. The block reward of 1 CLAM means that 526,000 new CLAMs are created each year. The annual rate of return varies in relation to the current active money supply. Accordingly, the present annual rate of return is 234%, and the daily return is 0.64%.
 
+---
 
 <a markdown="0" href="{{ site.url }}/support" class="btn">NEXT: Technical Support.</a>
 
-<a markdown="0" href="{{ site.url }}/clamalytics" class="btn">NEXT: CLAMalytics.</a>
+<a markdown="0" href="{{ site.url }}/analytics" class="btn">NEXT: CLAMalytics.</a>
 
 <a markdown="0" href="{{ site.url }}/introduction" class="btn">BACK: Introduction.</a>

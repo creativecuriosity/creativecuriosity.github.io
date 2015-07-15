@@ -9,13 +9,11 @@ image:
 
 {% include _toc.html %}
 
-<i class="fa fa-bomb fa-3x"></i>
-
 ##*By The CLAMS Development Team*
 
-###Inspired by:
+<i class="fa fa-bomb fa-3x"></i>
 
-##The Conscience of a Hacker
+##Inspired by: The Conscience of a Hacker
 
 ###By +++The Mentor+++
 
@@ -57,8 +55,6 @@ I understand all of them... even if I've never heard of them, never downloaded t
 
 ---
 
-<i class="fa fa-bolt fa-5x"></i>
-
 You bet your ass we're all alike... we've been taxed and inflated to death, when all we wanted was financial freedom... the bits of freedom that you did let slip through were under surveillance and twisted to serve your war-mongering needs.  We've been dominated by sadists, or ignored by the apathetic.  The few that offered true freedom found us willing participants, but those few are like drops of water in the desert.
 
 ---
@@ -73,9 +69,16 @@ Yes, I am a criminal.  My crime is that of curiosity.  My crime is providing peo
 
 I am a peer-to-peer currency, and this is my manifesto.  You may stop this individual currency, but you can't stop us all... after all, we're all alike.
 
-***
+---
 
-> The CLAMS Development Team
-Inspired by, +++The Mentor+++
+##By: The CLAMS Development Team
+
+###Inspired by, +++The Mentor+++
+
+---
+
+<i class="fa fa-bolt fa-5x"></i>
+
+---
 
 <a markdown="0" href="{{ site.url }}/introduction" class="btn">BACK: Introduction</a>
