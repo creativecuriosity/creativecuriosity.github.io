@@ -33,7 +33,7 @@ The CLAM Network is a peer-to-peer network of computers running the CLAMS softwa
 
 
 
-###*<i class="fa fa-check-square fa-2x"></i>You are the CLAM Network.*
+###*<i class="fa fa-check-square fa-2x"></i> You are the CLAM Network.*
 
 <a markdown="0" href="{{ site.url }}/technical-info" class="btn">Technical Info</a>
 
@@ -47,7 +47,7 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 
 
-###*<i class="fa fa-check-square fa-2x"></i>CLAMS is about freedom, fairness and equality.*
+###*<i class="fa fa-check-square fa-2x"></i> CLAMS is about freedom, fairness and equality.*
 
 <a markdown="0" href="{{ site.url }}/manifesto" class="btn">CLAM Manifesto</a>
 
@@ -57,4 +57,4 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 ***
 
-##CLAMS Is About ['Equal Distribution'](#/equal-distribution/)? 
+##['NEXT: CLAMs Is About Equal Distribution.'](/distribution)
