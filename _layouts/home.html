@@ -36,13 +36,9 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-      {% if page.share != false %}
-        <hr />
-        {% include _social-share.html %}
-      {% endif %}
     </div><!-- /.article-wrap -->
 	
-	<h3><a href="{{ site.url}}/posts/">News</a></h3>
+	<h1><a href="{{ site.url}}/posts/">News</a></h1>
     {% for post in site.posts limit:5 %}    
     <article>
       {% if post.link %}
@@ -53,6 +49,11 @@
       {% endif %}
     </article>
     {% endfor %}
+	
+	{% if page.share != false %}
+        <hr />
+        {% include _social-share.html %}
+      {% endif %}
 	
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
