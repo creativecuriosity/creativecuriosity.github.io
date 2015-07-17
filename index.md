@@ -12,18 +12,20 @@ image:
 
 #Welcome to the CLAM Family!
 
-##CLAM Basic Information
+---
 
-###Introduction
+#[Basic Information]({{ site.url }}/basics)
 
-###Getting Started
+##[Introduction]({{ site.url }}/basics/introduction)
 
-###Download
+##[Getting Started]({{ site.url }}/basics/getting-started)
+
+##[Download]({{ site.url }}/basics/download)
 
 ---
 
-##CLAM Intermediate Information
+#[Intermediate Information]({{ site.url }}/intermediate)
 
 ---
 
-##CLAM Advanced Information
+#[Advanced Information]({{ site.url }}/advanced)
