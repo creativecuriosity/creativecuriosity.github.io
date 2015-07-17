@@ -2,51 +2,51 @@
 
 
 - title: Introduction
-  url: /introduction/
+  url: /basics/introduction/
   excerpt: Learn the basics of the CLAM network.  
   
 - title: Getting Started
-  url: /getting-started/
+  url: /basics/getting-started/
   excerpt: Only what you need to get involved with the CLAM network; nothing more.  
 
 - title: Download
-  url: /download/
+  url: /basics/download/
   excerpt: Download the CLAMclient software.  
   
 - title: Distribution
-  url: /distribution/
+  url: /intermediate/distribution/
   excerpt: '"Aequitas" is Latin for Equality. Learn what makes the CLAM network so fair.'  
 
 - title: CLAMspeech
-  url: /clamspeech/
+  url: /intermediate/clamspeech/
   excerpt: '"Libertas" is Latin for Liberty. Learn how the CLAM network protects and is protected by free speech.'
 
 - title: Development
-  url: /development/
+  url: /intermediate/development/
   excerpt: Discover what is in store for the future of CLAMs and how you can help.
 
 - title: Market
-  url: /market/
+  url: /intermediate/market/
   excerpt: Explore some of the things you can do with your CLAMs.
   
 - title: Manifesto
-  url: /manifesto/
+  url: /intermediate/manifesto/
   excerpt: Why was the CLAM network created?
   
 - title: Technical Information
-  url: /technical-information/
+  url: /intermediate/technical-information/
   excerpt: Study the technical parameters of the CLAM protocol.
   
 - title: Create CLAMs
-  url: /create-clams/
+  url: /intermediate/create-clams/
   excerpt: Start earning CLAMs by helping to secure the network.
   
 - title: Earn CLAMs
-  url: /earn-clams/
+  url: /intermediate/earn-clams/
   excerpt: Help to develop the network and earn CLAMs.
   
 - title: News Articles
-  url: /news-articles/
+  url: /basics/news-articles/
   excerpt: Take a gander at some of the places CLAM has been mentioned across the internet.
   
 - title: Theme Setup

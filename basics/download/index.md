@@ -61,11 +61,11 @@ CLAMS is free and open source software that has been deemed safe and secure by t
 
 ---
 
-<i class="fa fa-github fa-5x"></i>
+##<i class="fa fa-github fa-5x"></i> &nbsp;&nbsp;GITHUB
 
-<a markdown="0" href="https://github.com/nochowderforyou/clams" target="_blank" class="btn">SOURCE</a>
+<div><a markdown="0" href="https://github.com/nochowderforyou/clams" target="_blank" class="btn">SOURCE</a>
 
-<a markdown="0" href="https://github.com/nochowderforyou/clams/releases" target="_blank" class="btn">v1.4.13 RELEASE NOTES</a>
+<a markdown="0" href="https://github.com/nochowderforyou/clams/releases" target="_blank" class="btn">v1.4.13 RELEASE NOTES</a></div>
 
 ---
 

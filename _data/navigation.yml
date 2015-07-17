@@ -2,14 +2,14 @@
 
 
 - title: Introduction
-  url: /introduction/
+  url: /basics/introduction/
   excerpt: Learn the basics of the CLAM network.
   
 - title: Getting Started
-  url: /getting-started/
+  url: /basics/getting-started/
   excerpt: Only what you need to get involved with the CLAM network; nothing more.
 
 - title: Download
-  url: /download/
+  url: /basics/download/
   excerpt: Download the CLAMclient software. 
   
