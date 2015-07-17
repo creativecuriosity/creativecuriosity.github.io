@@ -16,11 +16,11 @@ image:
 
 #[Basic Information]({{ site.url }}/basics)
 
-##[Introduction]({{ site.url }}/basics/introduction)
+> ##[Introduction]({{ site.url }}/basics/introduction)
 
-##[Getting Started]({{ site.url }}/basics/getting-started)
+ > ##[Getting Started]({{ site.url }}/basics/getting-started)
 
-##[Download]({{ site.url }}/basics/download)
+ > ##[Download]({{ site.url }}/basics/download)
 
 ---
 
