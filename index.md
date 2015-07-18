@@ -14,7 +14,7 @@ image:
 
 ---
 
-> #[Basic Information]({{ site.url }}/basics)
+> #[<i class="fa fa-coffee fa-2x"></i>Basic Information]({{ site.url }}/basics)
 
 ##[Introduction]({{ site.url }}/basics/introduction)
 
