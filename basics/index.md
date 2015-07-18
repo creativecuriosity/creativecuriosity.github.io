@@ -1,22 +1,43 @@
 ---
 layout: page
-title: Getting Started with CLAMs
+title: CLAM Basics
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Step by step instructions for getting started with CLAMs."
+excerpt: "Basic information about CLAMs."
 image:
   feature: cranes.jpg
 ---
 
 {% include _toc.html %}
 
-##Introduction
+---
+
+##[Introduction]({{ site.url }}/basics/introduction)
+
 A short introduction to CLAMs and the CLAM network.
 
-##Getting-Started
+---
+
+##[What Are Clams?]({{ site.url }}/basics/what-are-clams)
+
+CLAM as it relates to other crypto currencies.
+
+---
+
+##[Getting-Started]({{ site.url }}/basics/getting-started)
+
 A step-by-step guide to getting started with CLAMs.
 
-##Download
+---
+
+##[Download]({{ site.url }}/basics/download)
+
 Links to download the CLAM software and become part of the network.
+
+---
+
+##[Support]({{ site.url }}/basics/support)
+
+Having some difficulty?  Find support here!
 
 ---
 
