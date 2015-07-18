@@ -14,18 +14,18 @@ image:
 
 ---
 
-#[Basic Information]({{ site.url }}/basics)
+> #[Basic Information]({{ site.url }}/basics)
 
-> ##[Introduction]({{ site.url }}/basics/introduction)
+##[Introduction]({{ site.url }}/basics/introduction)
 
- > ##[Getting Started]({{ site.url }}/basics/getting-started)
+##[Getting Started]({{ site.url }}/basics/getting-started)
 
- > ##[Download]({{ site.url }}/basics/download)
-
----
-
-#[Intermediate Information]({{ site.url }}/intermediate)
+##[Download]({{ site.url }}/basics/download)
 
 ---
 
-#[Advanced Information]({{ site.url }}/advanced)
+> #[Intermediate Information]({{ site.url }}/intermediate)
+
+---
+
+> #[Advanced Information]({{ site.url }}/advanced)
