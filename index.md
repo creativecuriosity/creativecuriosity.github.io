@@ -14,7 +14,7 @@ image:
 
 ---
 
-> #[<i class="fa fa-coffee fa-2x"></i>Basic Information]({{ site.url }}/basics)
+> #[<i class="fa fa-user fa-2x"></i> Basic Information]({{ site.url }}/basics)
 
 ##[Introduction]({{ site.url }}/basics/introduction)
 
@@ -24,8 +24,12 @@ image:
 
 ---
 
-> #[Intermediate Information]({{ site.url }}/intermediate)
+> #[<i class="fa fa-user-plus fa-2x"></i> Intermediate Information]({{ site.url }}/intermediate)
+
+##[Manifesto]({{ site.url }}/intermediate/manifesto)
 
 ---
 
-> #[Advanced Information]({{ site.url }}/advanced)
+> #[<i class="fa fa-user-secret fa-2x"></i> Advanced Information]({{ site.url }}/advanced)
+
+##[Manifesto]({{ site.url }}/advanced/analytics)
