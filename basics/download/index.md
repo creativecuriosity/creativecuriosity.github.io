@@ -17,21 +17,19 @@ CLAMS is free and open source software that has been deemed safe and secure by t
 
 ###If you need help:
 
-* Visit the [SUPPORT]({{ site.url }}/support) page. 
+* Visit the [SUPPORT]({{ site.url }}/basics/support) page. 
 
 * Live assistance from the community by joining the [#clams Freenode IRC channel](http://webchat.freenode.net/?channels=clams){:target="_blank"}.  
 
 ###Getting CLAMs
 
-* Every person who held LTC, BTC or DOGE in May, 2013 received free CLAM, [claim]({{ site.url }}/distribution) them.
+* Every person who held LTC, BTC or DOGE in May, 2013 received free CLAM, [claim]({{ site.url }}/intermediate/distribution) them.
 
 * Purchase CLAM on one of the exchanges listed on the [market]({{ site.url }}/market) page.
 
 ---
 
 ###*<i class="fa fa-check-square fa-2x"></i> Safe, Secure and Fun.*
-
-<a href="{{ site.url }}/the-clamclient" class="btn"><i class="fa fa-arrow-down"></i> Learn More</a>
 
 ---
 
@@ -75,4 +73,6 @@ Note: Video is best viewed in HD and fullscreen.
 
 ---
 
-<a markdown="0" href="{{ site.url }}/earn-clams" class="btn">NEXT: Secure the Network, Earn CLAMs</a>
+<div><a markdown="0" href="{{ site.url }}/basics" class="btn">BACK: Basics</a>
+
+<a markdown="0" href="{{ site.url }}/basics/support" class="btn">NEXT: Support</a></div>

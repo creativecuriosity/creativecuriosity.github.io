@@ -24,4 +24,6 @@ The combined computing power of the CLAMS network is used to create and maintain
 
 ---
 
-<a markdown="0" href="{{ site.url }}/introduction" class="btn">BACK: Introduction</a>
+<div><a markdown="0" href="{{ site.url }}/basics" class="btn">BACK: Basics</a>
+
+<a markdown="0" href="{{ site.url }}/basics/getting-started" class="btn">NEXT: Getting Started</a></div>

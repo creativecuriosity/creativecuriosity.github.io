@@ -25,15 +25,13 @@ Using cryptocurrency today can be about as easy as using the Internet in 1992. B
 
 ---
 
-<a markdown="0" href="http://clam.makejar.com/" class="btn" target="_blank"><i class="fa fa-cloud"></i> CLAMchecker</a>
-
-<a markdown="0" href="{{ site.url }}/import" class="btn"><i class="fa fa-cloud"></i> Importing distribution CLAMs</a>
+<a markdown="0" href="{{ site.url }}/intermediate/import" class="btn"><i class="fa fa-cloud"></i> Importing distribution CLAMs</a>
 
 ---
 
-<a markdown="0" href="{{ site.url }}/clams-channel" class="btn"><i class="fa fa-cloud"></i> Support on #clams Freenode IRC</a>
+<a markdown="0" href="{{ site.url }}/intermediate/clams-channel" class="btn"><i class="fa fa-cloud"></i> Support on #clams Freenode IRC</a>
 
-<a markdown="0" href="{{ site.url }}/ircbot" class="btn"><i class="fa fa-cloud"></i> #clams IRC Bot Commands</a>
+<a markdown="0" href="{{ site.url }}/intermediate/ircbot" class="btn"><i class="fa fa-cloud"></i> #clams IRC Bot Commands</a>
 
 ---
 
@@ -43,4 +41,6 @@ Using cryptocurrency today can be about as easy as using the Internet in 1992. B
 
 ---
 
-<a markdown="0" href="{{ site.url }}/technical-information" class="btn">BACK: Technical Information</a>
+<div><a markdown="0" href="{{ site.url }}/advanced" class="btn">BACK: Basics</a>
+
+<a markdown="0" href="{{ site.url }}/intermediate" class="btn">NEXT: Intermediate</a></div>

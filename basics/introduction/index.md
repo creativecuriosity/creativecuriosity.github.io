@@ -13,13 +13,9 @@ image:
 
 CLAMS are a form of digital value, or currency, that is transferred, created, and verified by the collective effort of the computers running the CLAMS software.  Similar to Bitcoin, the original technology on top of which CLAMS was created, this network follows a rigorous protocol to ensure that consensus and verification is maintained.
 
-
-
 ###*<i class="fa fa-check-square fa-2x"></i> CLAMS are a form of Digital Money.*
 
-<a markdown="0" href="{{ site.url }}/what-are-clams" class="btn">What Are CLAMs?</a>
-
-***
+---
 
 ##What is the CLAM Network?
 
@@ -29,9 +25,7 @@ The CLAM Network is a peer-to-peer network of computers running the CLAMS softwa
 
 ###*<i class="fa fa-check-square fa-2x"></i> You are the CLAM Network.*
 
-<a markdown="0" href="{{ site.url }}/technical-information" class="btn">Technical Info</a>
-
-***
+---
 
 ##Why Should We Care?
 
@@ -43,14 +37,12 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 ###*<i class="fa fa-check-square fa-2x"></i> CLAMS is about freedom, fairness and equality.*
 
-<a markdown="0" href="{{ site.url }}/manifesto" class="btn">CLAM Manifesto</a>
-
-***
+---
 
 <iframe class="youtube-player" type="text/html" width="432" height="270" style="max-width:100%;" src="http://www.youtube.com/embed/udA4CZPLy98?wmode=opaque" frameborder="0" allowfullscreen="true"></iframe>
 
-***
-
 ---
 
-<a markdown="0" href="{{ site.url }}/distribution" class="btn">NEXT: CLAMs Is About Equal Distribution.</a>
+<div><a markdown="0" href="{{ site.url }}/basics" class="btn">BACK: Basics</a>
+
+<a markdown="0" href="{{ site.url }}/basics/what-are-clams" class="btn">NEXT: What Are CLAMs?</a></div>
