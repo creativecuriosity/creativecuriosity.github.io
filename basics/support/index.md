@@ -19,9 +19,9 @@ Using cryptocurrency today can be about as easy as using the Internet in 1992. B
 
 ---
 
-<a markdown="0" href="http://blocktree.io/peers/CLAM/" class="btn" target="_blank"><i class="fa fa-cloud"></i> Node List</a>
+<div><a markdown="0" href="http://blocktree.io/peers/CLAM/" class="btn" target="_blank"><i class="fa fa-cloud"></i> Node List</a>
 
-<a markdown="0" href="https://bitcointalk.org/index.php?topic=623147.msg9772191#msg9772191" class="btn" target="_blank"><i class="fa fa-cloud"></i> Bootstrap.dat</a>
+<a markdown="0" href="https://bitcointalk.org/index.php?topic=623147.msg9772191#msg9772191" class="btn" target="_blank"><i class="fa fa-cloud"></i> Bootstrap.dat</a></div>
 
 ---
 
@@ -29,9 +29,9 @@ Using cryptocurrency today can be about as easy as using the Internet in 1992. B
 
 ---
 
-<a markdown="0" href="{{ site.url }}/intermediate/clams-channel" class="btn"><i class="fa fa-cloud"></i> Support on #clams Freenode IRC</a>
+<div><a markdown="0" href="{{ site.url }}/intermediate/clams-channel" class="btn"><i class="fa fa-cloud"></i> Support on #clams Freenode IRC</a>
 
-<a markdown="0" href="{{ site.url }}/intermediate/ircbot" class="btn"><i class="fa fa-cloud"></i> #clams IRC Bot Commands</a>
+<a markdown="0" href="{{ site.url }}/intermediate/ircbot" class="btn"><i class="fa fa-cloud"></i> #clams IRC Bot Commands</a></div>
 
 ---
 
