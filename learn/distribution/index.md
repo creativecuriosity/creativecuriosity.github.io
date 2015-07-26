@@ -2,7 +2,7 @@
 layout: page
 title: Distribution
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Learn about the unique "Proof-Of-Chain" CLAMs distribution."
+excerpt: "Learn about the unique Proof-Of-Chain CLAMs distribution."
 image:
   feature: team.jpg
 ---
