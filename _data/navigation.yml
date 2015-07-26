@@ -1,15 +1,15 @@
 # Site navigation links
 
 
-- title: Basics
-  url: /basics/
-  excerpt: Learn the basics of the CLAM network.
+- title: Start
+  url: /start/
+  excerpt: Get started with the CLAM network.
   
-- title: Intermediate
-  url: /intermediate/
-  excerpt: Delve deeper into the specifics of the CLAM network.
+- title: Learn
+  url: /learn/
+  excerpt: Delve deeper and learn about the CLAM network.
 
-- title: Advanced
-  url: /advanced/
+- title: Technical
+  url: /technical/
   excerpt: Advanced technical parameters of the CLAM network. 
   
