@@ -37,6 +37,6 @@ At the very heart of this beast are the trust-based services it provides and reg
 
 ---
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn/import" class="btn">NEXT: Import</a>
+<a markdown="0" href="{{ site.url }}/learn/import" class="btn">NEXT: Import</a></div>

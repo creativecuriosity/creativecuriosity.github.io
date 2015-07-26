@@ -53,6 +53,6 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 ---
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/technical" class="btn">NEXT: Technical</a>
+<a markdown="0" href="{{ site.url }}/technical" class="btn">NEXT: Technical</a></div>

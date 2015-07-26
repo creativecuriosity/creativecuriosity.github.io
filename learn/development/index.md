@@ -52,6 +52,6 @@ image:
 
 ---
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/clams-chat" class="btn">NEXT: CLAMs Chat</a>
+<a markdown="0" href="{{ site.url }}/clams-chat" class="btn">NEXT: CLAMs Chat</a></div>

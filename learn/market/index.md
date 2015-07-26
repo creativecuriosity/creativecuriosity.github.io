@@ -13,6 +13,6 @@ image:
 
 ## Installation
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn/development" class="btn">NEXT: Development</a>
+<a markdown="0" href="{{ site.url }}/learn/development" class="btn">NEXT: Development</a></div>

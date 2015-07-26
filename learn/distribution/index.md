@@ -36,6 +36,6 @@ The CLAM network is secured through a unique system called Proof-of-Working-Stak
 
 ---
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn/clamspeech" class="btn">NEXT: CLAMspeech.</a>
+<a markdown="0" href="{{ site.url }}/learn/clamspeech" class="btn">NEXT: CLAMspeech.</a></div>

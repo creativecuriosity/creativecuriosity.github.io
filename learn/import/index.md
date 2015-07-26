@@ -51,6 +51,6 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 ---
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn/create-clams" class="btn">NEXT: Create CLAMs</a>
+<a markdown="0" href="{{ site.url }}/learn/create-clams" class="btn">NEXT: Create CLAMs</a></div>

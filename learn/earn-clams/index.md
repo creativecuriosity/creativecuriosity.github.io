@@ -86,6 +86,6 @@ POWS, like traditional POW, is designed to align incentives to stake with the be
 <button class="button" onclick="window.location.hash = window.location.hash + '!digging-for-clams'"><i class="fa fa-arrow-up"></i></button>
 
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn/market" class="btn">NEXT: Market</a>
+<a markdown="0" href="{{ site.url }}/learn/market" class="btn">NEXT: Market</a></div>

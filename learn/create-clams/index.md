@@ -13,6 +13,6 @@ image:
 
 ## Create CLAMs
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">NEXT: Earn CLAMs</a>
+<a markdown="0" href="{{ site.url }}/learn" class="btn">NEXT: Earn CLAMs</a></div>
