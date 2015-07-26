@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Introduction
+title: Import
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "A short introduction to the CLAM network."
+excerpt: "A guide to importing and claiming distribution CLAMs."
 image:
   feature: lighthouse.jpg
 ---
@@ -19,7 +19,7 @@ CLAMS are a form of digital value, or currency, that is transferred, created, an
 
 <a markdown="0" href="{{ site.url }}/what-are-clams" class="btn">What Are CLAMs?</a>
 
-***
+---
 
 ##What is the CLAM Network?
 
@@ -31,7 +31,7 @@ The CLAM Network is a peer-to-peer network of computers running the CLAMS softwa
 
 <a markdown="0" href="{{ site.url }}/technical-information" class="btn">Technical Info</a>
 
-***
+---
 
 ##Why Should We Care?
 
@@ -45,14 +45,12 @@ CLAMS provides an alternative. CLAMS provides freedom from seizure and taxation.
 
 <a markdown="0" href="{{ site.url }}/manifesto" class="btn">CLAM Manifesto</a>
 
-***
+---
 
 <iframe class="youtube-player" type="text/html" width="432" height="270" style="max-width:100%;" src="http://www.youtube.com/embed/udA4CZPLy98?wmode=opaque" frameborder="0" allowfullscreen="true"></iframe>
-
-***
 
 ---
 
 <a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/distribution" class="btn">NEXT: CLAMs Is About Equal Distribution.</a>
+<a markdown="0" href="{{ site.url }}/learn/create-clams" class="btn">NEXT: Create CLAMs</a>

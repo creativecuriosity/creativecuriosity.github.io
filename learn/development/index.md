@@ -2,7 +2,7 @@
 layout: page
 title: Development
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "A brief development roadmap."
+excerpt: "CLAM development is open source and community driven."
 image:
   feature: spotter.jpg
   credit: NOAA
@@ -54,4 +54,4 @@ image:
 
 <a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/earn-clams" class="btn">NEXT: Earn CLAMs</a>
+<a markdown="0" href="{{ site.url }}/clams-chat" class="btn">NEXT: CLAMs Chat</a>

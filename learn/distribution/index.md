@@ -2,7 +2,7 @@
 layout: page
 title: Distribution
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Information about the CLAM initial and ongoing money supply."
+excerpt: "Learn about the unique "Proof-Of-Chain" CLAMs distribution."
 image:
   feature: team.jpg
 ---
@@ -38,4 +38,4 @@ The CLAM network is secured through a unique system called Proof-of-Working-Stak
 
 <a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/clamspeech" class="btn">NEXT: CLAMspeech.</a>
+<a markdown="0" href="{{ site.url }}/learn/clamspeech" class="btn">NEXT: CLAMspeech.</a>

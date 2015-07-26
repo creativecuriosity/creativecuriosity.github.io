@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CLAM Intermediate
+title: Learn About the CLAM Network
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Intermediate information about CLAMs."
 image:
@@ -13,7 +13,7 @@ image:
 
 ##[Manifesto]({{ site.url }}/learn/manifesto)
 
-The CLAMs manifesto; inspired by "The Conscience of a hacker."
+The CLAMs manifesto; inspired by "The Conscience of a Hacker."
 
 ---
 

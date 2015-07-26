@@ -2,7 +2,7 @@
 layout: page
 title: CLAMspeech
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "A short introduction to CLAMspeech."
+excerpt: "Discover how and why the CLAM protocol intimately integrates free and protected speech."
 image:
   feature: puffer.jpg
   credit: NOAA
@@ -39,4 +39,4 @@ At the very heart of this beast are the trust-based services it provides and reg
 
 <a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/download" class="btn">NEXT: Download.</a>
+<a markdown="0" href="{{ site.url }}/learn/import" class="btn">NEXT: Import</a>

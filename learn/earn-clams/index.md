@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Theme Setup
+title: Earn CLAMs
 modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
+excerpt: "A few ideas on earning CLAMs the old fashioned way: work!"
 image:
   feature: sample-image-3.jpg
 ---
@@ -77,7 +77,9 @@ Note that Proof-of-Working-Stake refers to CLAM's unique implementation of Proof
 POWS, like traditional POW, is designed to align incentives to stake with the benefit to the network of persistent competition for blocks. Therefore, a CLAM on the network is more akin to a POW miner.  A CLAM represents something somewhat similar to a unit of hashing power in a POW network.  If you do not stake (turn on your miner), you do not have the opportunity to be rewarded for securing the network.
 
 </p>
-<br>
+
+---
+
 ###*Intelligent Design*
 <i class="fa fa-check-square fa-2x"></i>
 <br><br>
@@ -85,3 +87,5 @@ POWS, like traditional POW, is designed to align incentives to stake with the be
 
 
 <a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
+
+<a markdown="0" href="{{ site.url }}/learn/market" class="btn">NEXT: Market</a>
