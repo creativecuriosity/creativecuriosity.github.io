@@ -4,7 +4,7 @@ title: Learn About the CLAM Network
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Intermediate information about CLAMs."
 image:
-  feature: cranes.jpg
+  feature: easterisland.jpg
 ---
 
 {% include _toc.html %}
