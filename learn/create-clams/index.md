@@ -35,4 +35,4 @@ POWS, like traditional POW, is designed to align incentives to stake with the be
 
 <div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn" class="btn">NEXT: Earn CLAMs</a></div>
+<a markdown="0" href="{{ site.url }}/learn/clamspeech" class="btn">NEXT: CLAMspeech</a></div>

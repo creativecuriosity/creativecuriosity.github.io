@@ -17,39 +17,39 @@ There are a variety of places you can purchase and use CLAM.
 
 ---
 
-##Markets
+##Exchanges
 
-[![Poloniex](poloniex-1.jpg)](https://poloniex.com/exchange/btc_clam)
+[![Poloniex]({{ site.url }}/images/poloniex-1.jpg)](https://poloniex.com/exchange/btc_clam)
 
 Our very first exchange. Poloniex gave away all its proof-of-chain distribution, helping to build CLAMs into into what it is today. Poloniex now also offers margin trading!
 
 ---
 
-[![Shapeshift.io](shapeshift.png)](https://www.shapeshift.io)
+[![Shapeshift.io]({{ site.url }}/images/shapeshift.png)](https://www.shapeshift.io)
 
 From start to finish you can exchange CLAMs in under ten seconds, no account required.
 
 ---
 
-[![Bittrex](bittrex.png)](https://bittrex.com/Market/Index?MarketName=BTC-CLAM)
+[![Bittrex]({{ site.url }}/images/bittrex.png)](https://bittrex.com/Market/Index?MarketName=BTC-CLAM)
 
 Bringing 50 years of combined security and development experience to the trading community from companies, including Microsoft, Amazon, Qualys, and BlackBerry.
 
 ---
 
-[![Cryptsy](Cryptsy1.png)](https://www.cryptsy.com/markets/view/CLAM_BTC)
+[![Cryptsy]({{ site.url }}/images/Cryptsy1.png)](https://www.cryptsy.com/markets/view/CLAM_BTC)
 
 Cryptsy stands among the exchange pioneers. Thanks and congratulations to Big Vern and the Cryptsy team for joining the proof-of-chain revolution.
 
 ---
 
-[![Yacuna](yacuna.jpg)](https://yacuna.com/?utm_source=bitcointalk.org&utm_medium=clam&utm_campaign=20%2F12%2F14%20bitcointalk%20releaseclam)
+[![Yacuna]({{ site.url }}/images/yacuna.jpg)](https://yacuna.com/?utm_source=bitcointalk.org&utm_medium=clam&utm_campaign=20%2F12%2F14%20bitcointalk%20releaseclam)
 
 CLAMs first fiat market! Trade CLAMs for Euros or BTC. Yacuna is a regulated exchange in the United Kingdom. Buy CLAMs by wire transfer without registration!
 
 ---
 
-[![Bluetrade](bleutrade.png)](https://bleutrade.com/exchange/CLAM/)
+[![Bluetrade]({{ site.url }}/images/bleutrade.png)](https://bleutrade.com/exchange/CLAM/)
 
 Bleutrade is a startup focused on becoming a leader in cryptocurrency exchange. Based in Porto Digital, Brazil, a technology hub known as the "Silicon Valley" of Latin America. 
 
@@ -63,7 +63,7 @@ Bleutrade is a startup focused on becoming a leader in cryptocurrency exchange. 
 
 Just-Dice is run by a long-time member of the CLAMmunity, Dooglus, who continues to spend countless hours assisting with CLAMs development and support. Using CLAMs on Just-Dice is more than just a game or an investment, it's a contribution to the future of CLAMs itself.
 
-[![Just-Dice](I-Have-Bitcoins-Just-Dice-is-first-casualty-of-Canadas-new-Bitcoin-law.png)](https://just-dice.com)
+[![Just-Dice]({{ site.url }}/images/I-Have-Bitcoins-Just-Dice-is-first-casualty-of-Canadas-new-Bitcoin-law.png)](https://just-dice.com)
 
 ---
 
@@ -73,7 +73,7 @@ Just-Dice is run by a long-time member of the CLAMmunity, Dooglus, who continues
 
 FortuneJack isn't just a casino. The site accepts a number of major cryptocurrencies and your balances can be exchanged.
 
-[![FortuneJack](img139-fortunejack.jpg)](https://fortunejack.com/)
+[![FortuneJack]({{ site.url }}/images/img139-fortunejack.jpg)](https://fortunejack.com/)
 
 ---
 
@@ -81,7 +81,7 @@ FortuneJack isn't just a casino. The site accepts a number of major cryptocurren
 
 [BitDice.me](http://bitdice.me) comes to you from the makers of DogeDice! Play dice, blackjack and roulette with your CLAMs.
 
-[![BitDice.me](bitdice.png)](https://www.bitdice.me/)
+[![BitDice.me]({{ site.url }}/images/bitdice.png)](https://www.bitdice.me/)
 
 ---
 
