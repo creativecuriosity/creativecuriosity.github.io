@@ -4,14 +4,12 @@ title: Create CLAMs
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "The CLAM network is secured by it's users; but, what does this mean?"
 image:
-  feature: sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: pileofclams.jpg
 ---
 
 {% include _toc.html %}
 
-##Create CLAMs
+---
 
 The CLAM network is secured through a unique system called Proof-of-Working-Stake(POWS), or as we like to say, *Digging for fresh CLAMs!* Approximately once per minute, the network automatically selects one running unlocked client to process recent CLAM transactions, rewarding them 1 CLAM. This process happens entirely in the background. If the network selects your client, then all you'll notice is that you're 1 CLAM richer! This POWS system is the heart of the CLAM network, providing security and stabilizing the price over time.
 
