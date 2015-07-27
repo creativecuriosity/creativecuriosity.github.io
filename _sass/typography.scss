@@ -166,3 +166,9 @@ pre {
 	line-height: 1.5;
 	overflow-x: auto;
 }
+
+.rounded {
+	border-radius: 100%;
+	border: 1px solid #4dac71;
+	display: inline-block;
+}
