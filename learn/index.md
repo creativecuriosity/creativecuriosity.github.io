@@ -23,12 +23,6 @@ Learn about the unique "Proof-Of-Chain" CLAMs distribution.
 
 ---
 
-##[CLAMspeech]({{ site.url }}/learn/clamspeech)
-
-Discover how and why the CLAM protocol intimately integrates free and protected speech.
-
----
-
 ##[Import]({{ site.url }}/learn/import)
 
 A guide to importing and claiming distribution CLAMs.
@@ -38,6 +32,12 @@ A guide to importing and claiming distribution CLAMs.
 ##[Create CLAMs]({{ site.url }}/learn/create-clams)
 
 The CLAM network is secured by it's users; but, what does this mean?
+
+---
+
+##[CLAMspeech]({{ site.url }}/learn/clamspeech)
+
+Discover how and why the CLAM protocol intimately integrates free and protected speech.
 
 ---
 

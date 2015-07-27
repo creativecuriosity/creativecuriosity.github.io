@@ -13,22 +13,21 @@ image:
 
 Welcome to the world's first Proof-of-Chain cryptocurrency! The CLAMs network was created with the widest digital value distribution in history. CLAMS were sent to all active users of the 3 most popular digital currencies. If you had Bitcoin, Litecoin or Dogecoin on May 12, 2014 then you probably have CLAMs waiting for you. We like to call this *Digging up old CLAMs!*
 
+##Digging For CLAMs
 
-###*<i class="fa fa-check-square fa-2x"></i>Completely distributed before launch.*
+The goal, from the very beginning of this project, was to create a cryptocurrency with the widest initial distribution. Ever.
 
-<a markdown="0" href="{{ site.url }}/proof-of-chain" class="btn"><i class="fa fa-arrow-down "></i> Proof-Of-Chain</a>
+Conventional “air-drop” mechanics lend themselves to trust-based developer promises.  We DON’T like trusting people.
+
+Giveaways are notoriously susceptible to cheating and bias those who happen to hear of them. We DON’T like tit-for-tat arrangements.
+
+Many intelligent people are aware that Bitcoin’s most valuable asset is the blockchain itself.  The blockchain represents the combined efforts, commitment, and participation of the entire community.  It is the revolution that sets cryptocurrency apart from other value systems.  It is trust-less and wonderful.  We DO like the trust-less blockchain.
+
+So!  We took the BTC, LTC, and DOGE blockchains, found every address with a balance above dust, and sent each and every one of them a little over 4.6 CLAMS.  It isn’t perfect, but it includes everyone.
 
 ---
 
-##Ongoing Distribution
-
-The CLAM network is secured through a unique system called Proof-of-Working-Stake(POWS), or as we like to say, *Digging for fresh CLAMs!* Approximately once per minute, the network automatically selects one running unlocked client to process recent CLAM transactions, rewarding them 1 CLAM. This process happens entirely in the background. If the network selects your client, then all you'll notice is that you're 1 CLAM richer! This POWS system is the heart of the CLAM network, providing security and stabilizing the price over time.
-
----
-
-###*<i class="fa fa-check-square fa-2x"></i> Active users are rewarded.*
-
-<a markdown="0" href="{{ site.url }}/proof-of-working-stake" class="btn"><i class="fa fa-arrow-down "></i> Proof-Of-Working-Stake</a>
+###*A truly zero-trust currency.*
 
 ---
 
@@ -38,4 +37,4 @@ The CLAM network is secured through a unique system called Proof-of-Working-Stak
 
 <div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
 
-<a markdown="0" href="{{ site.url }}/learn/clamspeech" class="btn">NEXT: CLAMspeech.</a></div>
+<a markdown="0" href="{{ site.url }}/learn/import" class="btn">NEXT: Import</a></div>
