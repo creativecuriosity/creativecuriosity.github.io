@@ -749,3 +749,14 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+
+.footer-social {
+	display:inline;
+	list-style-type:none;
+	display:inline;
+	font-size:2em;
+}
+
+.footer-social li{
+	float:left;
+}
