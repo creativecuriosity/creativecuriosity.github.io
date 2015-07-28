@@ -23,9 +23,9 @@ image:
 
 ---
 
-For both Windows and Linux users, you'll first need to [change your settings](http://kb.mozillazine.org/Show_hidden_files_and_folders) to display hidden files and folders.
+For both Windows and Linux users, you'll first need to [change your settings](http://kb.mozillazine.org/Show_hidden_files_and_folders){:target="_blank"} to display hidden files and folders.
 
-The wallet.dat file location information can be [found here](https://en.bitcoin.it/wiki/Data_directory).
+The wallet.dat file location information can be [found here](https://en.bitcoin.it/wiki/Data_directory){:target="_blank"}.
 
 ---
 

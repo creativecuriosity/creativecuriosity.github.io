@@ -29,9 +29,7 @@ Using cryptocurrency today can be about as easy as using the Internet in 1992. B
 
 ---
 
-<div><a markdown="0" href="{{ site.url }}/learn/clams-chat" class="btn"><i class="fa fa-cloud"></i> Support on #clams Freenode IRC</a>
-
-<a markdown="0" href="{{ site.url }}/learn/ircbot" class="btn"><i class="fa fa-cloud"></i> #clams IRC Bot Commands</a></div>
+<a markdown="0" href="{{ site.url }}/learn/clams-chat" class="btn"><i class="fa fa-cloud"></i> Support on #clams Freenode IRC</a>
 
 ---
 

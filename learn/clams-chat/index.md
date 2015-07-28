@@ -15,7 +15,7 @@ image:
 
 A method of contacting the CLAM community, and a primary source of information, is the official announcement thread on Bitcointalk.org.
 
-[Official CLAMs Post on BitcoinTalk.org](https://bitcointalk.org/index.php?topic=623147)
+[Official CLAMs Post on BitcoinTalk.org](https://bitcointalk.org/index.php?topic=623147){:target="_blank"}
 
 ---
 
@@ -27,10 +27,8 @@ This chat channel can be utilized for support, general information, media inquir
 
 If you do not have software to access IRC, you can access the channel via a simple web script here:
 
-[#clams](http://webchat.freenode.net/?channels=clams)
+[#clams](http://webchat.freenode.net/?channels=clams){:target="_blank"}
 
 ---
 
-<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a>
-
-<a markdown="0" href="{{ site.url }}/technical" class="btn">NEXT: Technical</a></div>
+<div><a markdown="0" href="{{ site.url }}/learn" class="btn">BACK: Learn</a></div>
