@@ -42,3 +42,7 @@ CLAMs would not exist today if not for the contribution and support of the commu
 
 ---
 
+#[Start Now!]({{ site.url }}/start)
+
+---
+
